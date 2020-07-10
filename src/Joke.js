@@ -24,6 +24,8 @@ function Joke({ id, vote, votes, text }){
   );
 }
 
+
+//CLASS COMPONENTS:
 // class Joke extends Component {
 //   render() {
 //     const { id, vote, votes, text } = this.props;
